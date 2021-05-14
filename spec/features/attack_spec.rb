@@ -1,4 +1,3 @@
-
 feature 'Attacking Player 2' do
   scenario 'attack leads to attack.erb' do
     sign_in_and_play
