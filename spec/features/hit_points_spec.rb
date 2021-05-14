@@ -1,3 +1,4 @@
+
 feature 'See Hit Points' do
   scenario 'displaying the points' do
     sign_in_and_play
